@@ -1,0 +1,126 @@
+div {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.table-show {
+    margin-top: 20px;
+}
+
+.header-text {
+    font-size: 40px;
+}
+
+div.table {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cancel {
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #6c757d;
+    border: none;
+    border-radius: 4px;
+}
+
+.cancel:hover {
+    background-color: #6c757d;
+    color: #fff;
+    transform: translateY(-1px);
+}
+
+.cancel:active {
+    background-color: #6c757d;
+    color: #fff;
+}
+
+
+
+
+.button-cancel {
+    width: 80px;
+    height: 40px;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    outline: none;
+    color: #fff;
+    background-color: #6c757d;
+    border: none;
+    border-radius: 4px;  
+
+}
+
+.button-cancel:hover {
+    background-color: #6c757d;
+    color: #fff;
+    transform: translateY(-1px);
+}
+
+.button-cancel:active {
+    background-color: #6c757d;
+    color: #fff;
+}
+
+
+
+
+
+.button-confirm{
+    width: 80px;
+    height: 40px;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    outline: none;
+    color: #fff;
+    background-color: #ff9900;
+    border: none;
+    border-radius: 4px;   
+   
+
+}
+
+
+.button-confirm:hover {
+    background-color: #ff9900;
+    color: #fff;
+    transform: translateY(-1px);
+}
+
+.button-confirm:active {
+    background-color: #ff9900;
+    color: #fff;
+}
+
+.button-save{
+    width: 130px;
+    height: 40px;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    outline: none;
+    color: #fff;
+    background-color: #58D68D;
+    border: none;
+    border-radius: 4px;   
+   
+
+}
+.button-save:hover {
+    background-color: #58D68D;
+    color: #fff;
+    transform: translateY(-1px);
+}
+.button-save:active {
+    background-color: #58D68D;
+    color: #fff;
+}
+
+
+   .card-header-bg {
+        background-color: #1f2421;
+    }
